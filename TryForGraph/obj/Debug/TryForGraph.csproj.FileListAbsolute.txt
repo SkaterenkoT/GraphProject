@@ -1,0 +1,15 @@
+C:\Users\Админ\source\repos\TryForGraph\TryForGraph\bin\Debug\TryForGraph.exe.config
+C:\Users\Админ\source\repos\TryForGraph\TryForGraph\bin\Debug\TryForGraph.exe
+C:\Users\Админ\source\repos\TryForGraph\TryForGraph\bin\Debug\TryForGraph.pdb
+C:\Users\Админ\source\repos\TryForGraph\TryForGraph\obj\Debug\TryForGraph.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\TryForGraph\TryForGraph\obj\Debug\TryForGraph.Properties.Resources.resources
+C:\Users\Админ\source\repos\TryForGraph\TryForGraph\obj\Debug\TryForGraph.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\TryForGraph\TryForGraph\obj\Debug\TryForGraph.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\TryForGraph\TryForGraph\obj\Debug\TryForGraph.exe
+C:\Users\Админ\source\repos\TryForGraph\TryForGraph\obj\Debug\TryForGraph.pdb
+C:\Users\Админ\source\repos\TryForGraph\TryForGraph\obj\Debug\TryForGraph.EdgeInfoForm.resources
+C:\Users\Админ\source\repos\TryForGraph\TryForGraph\bin\Debug\GraphLib.dll
+C:\Users\Админ\source\repos\TryForGraph\TryForGraph\bin\Debug\GraphLib.pdb
+C:\Users\Админ\source\repos\TryForGraph\TryForGraph\obj\Debug\TryForGr.B198EBC6.Up2Date
+C:\Users\Админ\source\repos\TryForGraph\TryForGraph\obj\Debug\TryForGraph.GraphFrameForm.resources
+C:\Users\Админ\source\repos\TryForGraph\TryForGraph\obj\Debug\TryForGraph.initGraph.resources

@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\TryForGraph\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{254FCC30-5AE6-44CB-A6DE-317FD60FC634}|TryForGraph\\TryForGraph.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\tryforgraph\\tryforgraph\\initgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{254FCC30-5AE6-44CB-A6DE-317FD60FC634}|TryForGraph\\TryForGraph.csproj|solutionrelative:tryforgraph\\initgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{254FCC30-5AE6-44CB-A6DE-317FD60FC634}|TryForGraph\\TryForGraph.csproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\TryForGraph\\tryforgraph\\initgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{254FCC30-5AE6-44CB-A6DE-317FD60FC634}|TryForGraph\\TryForGraph.csproj|solutionrelative:tryforgraph\\initgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{254FCC30-5AE6-44CB-A6DE-317FD60FC634}|TryForGraph\\TryForGraph.csproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\TryForGraph\\tryforgraph\\graphframeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{254FCC30-5AE6-44CB-A6DE-317FD60FC634}|TryForGraph\\TryForGraph.csproj|solutionrelative:tryforgraph\\graphframeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{254FCC30-5AE6-44CB-A6DE-317FD60FC634}|TryForGraph\\TryForGraph.csproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\TryForGraph\\tryforgraph\\graphframeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{254FCC30-5AE6-44CB-A6DE-317FD60FC634}|TryForGraph\\TryForGraph.csproj|solutionrelative:tryforgraph\\graphframeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{254FCC30-5AE6-44CB-A6DE-317FD60FC634}|TryForGraph\\TryForGraph.csproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\TryForGraph\\tryforgraph\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{254FCC30-5AE6-44CB-A6DE-317FD60FC634}|TryForGraph\\TryForGraph.csproj|solutionrelative:tryforgraph\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\GraphLib\\GraphLib\\UnionFind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{254FCC30-5AE6-44CB-A6DE-317FD60FC634}|TryForGraph\\TryForGraph.csproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\TryForGraph\\tryforgraph\\edgeinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{254FCC30-5AE6-44CB-A6DE-317FD60FC634}|TryForGraph\\TryForGraph.csproj|solutionrelative:tryforgraph\\edgeinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{254FCC30-5AE6-44CB-A6DE-317FD60FC634}|TryForGraph\\TryForGraph.csproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\TryForGraph\\tryforgraph\\edgeinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{254FCC30-5AE6-44CB-A6DE-317FD60FC634}|TryForGraph\\TryForGraph.csproj|solutionrelative:tryforgraph\\edgeinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 244,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnionFind.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\GraphLib\\GraphLib\\UnionFind.cs",
+              "RelativeDocumentMoniker": "..\\GraphLib\\GraphLib\\UnionFind.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\GraphLib\\GraphLib\\UnionFind.cs",
+              "RelativeToolTip": "..\\GraphLib\\GraphLib\\UnionFind.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T23:11:31.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Converter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\TryForGraph\\TryForGraph\\Converter.cs",
+              "RelativeDocumentMoniker": "TryForGraph\\Converter.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\TryForGraph\\TryForGraph\\Converter.cs",
+              "RelativeToolTip": "TryForGraph\\Converter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T22:51:34.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GraphFrameForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\TryForGraph\\TryForGraph\\GraphFrameForm.cs",
+              "RelativeDocumentMoniker": "TryForGraph\\GraphFrameForm.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\TryForGraph\\TryForGraph\\GraphFrameForm.cs",
+              "RelativeToolTip": "TryForGraph\\GraphFrameForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T22:42:49.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GraphFrameForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\TryForGraph\\TryForGraph\\GraphFrameForm.cs",
+              "RelativeDocumentMoniker": "TryForGraph\\GraphFrameForm.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\TryForGraph\\TryForGraph\\GraphFrameForm.cs [Design]",
+              "RelativeToolTip": "TryForGraph\\GraphFrameForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T22:42:39.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "initGraph.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\TryForGraph\\TryForGraph\\initGraph.cs",
+              "RelativeDocumentMoniker": "TryForGraph\\initGraph.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\TryForGraph\\TryForGraph\\initGraph.cs [Design]",
+              "RelativeToolTip": "TryForGraph\\initGraph.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:50:13.996Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "initGraph.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\TryForGraph\\TryForGraph\\initGraph.cs",
+              "RelativeDocumentMoniker": "TryForGraph\\initGraph.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\TryForGraph\\TryForGraph\\initGraph.cs",
+              "RelativeToolTip": "TryForGraph\\initGraph.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:26:11.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EdgeInfoForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\TryForGraph\\TryForGraph\\EdgeInfoForm.cs",
+              "RelativeDocumentMoniker": "TryForGraph\\EdgeInfoForm.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\TryForGraph\\TryForGraph\\EdgeInfoForm.cs",
+              "RelativeToolTip": "TryForGraph\\EdgeInfoForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA6wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:32:04.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EdgeInfoForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\TryForGraph\\TryForGraph\\EdgeInfoForm.cs",
+              "RelativeDocumentMoniker": "TryForGraph\\EdgeInfoForm.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\TryForGraph\\TryForGraph\\EdgeInfoForm.cs [Design]",
+              "RelativeToolTip": "TryForGraph\\EdgeInfoForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:31:28.96Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
