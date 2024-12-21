@@ -1,0 +1,6 @@
+C:\Users\Админ\source\repos\GraphLib\GraphLib\bin\Debug\GraphLib.dll
+C:\Users\Админ\source\repos\GraphLib\GraphLib\bin\Debug\GraphLib.pdb
+C:\Users\Админ\source\repos\GraphLib\GraphLib\obj\Debug\GraphLib.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\GraphLib\GraphLib\obj\Debug\GraphLib.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\GraphLib\GraphLib\obj\Debug\GraphLib.dll
+C:\Users\Админ\source\repos\GraphLib\GraphLib\obj\Debug\GraphLib.pdb
