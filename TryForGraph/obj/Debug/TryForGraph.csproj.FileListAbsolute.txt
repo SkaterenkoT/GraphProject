@@ -13,3 +13,4 @@ C:\Users\Админ\source\repos\TryForGraph\TryForGraph\bin\Debug\GraphLib.pdb
 C:\Users\Админ\source\repos\TryForGraph\TryForGraph\obj\Debug\TryForGr.B198EBC6.Up2Date
 C:\Users\Админ\source\repos\TryForGraph\TryForGraph\obj\Debug\TryForGraph.GraphFrameForm.resources
 C:\Users\Админ\source\repos\TryForGraph\TryForGraph\obj\Debug\TryForGraph.initGraph.resources
+C:\Users\Админ\source\repos\TryForGraph\TryForGraph\obj\Debug\TryForGraph.GraphSettings.resources

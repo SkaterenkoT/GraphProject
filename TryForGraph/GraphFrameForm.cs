@@ -1,6 +1,5 @@
 ﻿using GraphLib;
 using System;
-using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
@@ -15,13 +14,52 @@ namespace TryForGraph
     {
         private Graph graph;
         private const int VertexRadius = 20;
-        public GraphFrameForm(Graph graph)
+
+        public GraphFrameForm(Graph graph, Edge[] removedEdges, Frame frameType)
         {
             InitializeComponent();
             this.DoubleBuffered = true;
 
             this.graph = graph;
+            string type = "";
+            if (frameType == Frame.Max)
+            { 
+                type = "максимального";
+                this.Text = "Максимальный каркас";
+            }
+            else
+            { 
+                type = "минимального";
+                this.Text = "Минимальный каркас";
+            }
+            int removedEdgesCount = 0;
+            for (int i = 0; i < removedEdges.Length; i++)
+            {
+                if (removedEdges[i] == null)
+                    break;
+                removedEdgesCount++;
+            }
 
+            descriptionLabel.Text = $"Во избежании циклов,\nа также для сохранения\n{type} значения путей\nв графе были удалены следующие\n ребра, а именно {removedEdgesCount} шт:";
+            foreach (var edge in removedEdges)
+            {
+                if (edge != null)
+                {
+                    DataForRemoved.Rows.Add(edge.vert1.number, edge.vert2.number, edge.level);
+                }
+            }
+
+            int edgesInMinGraph = 0;
+            int edgeSum = 0;
+            foreach (var edge in graph.edges)
+            {
+                if (edge == null)
+                    break;
+                edgesInMinGraph++;
+                edgeSum += edge.level;
+            }
+            edgesRemainingLabel.Text = $"Ребер осталось: {edgesInMinGraph}";
+            edgesLevelSumLab.Text = $"Общая сумма ребер: {edgeSum}";
             // Привязка обработчика Paint
             this.Paint += new PaintEventHandler(FrameResultForm_Paint);
         }
@@ -96,4 +134,3 @@ namespace TryForGraph
         }
     }
 }
-

@@ -1,6 +1,5 @@
 ﻿using GraphLib;
 using System;
-using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -18,5 +17,17 @@ namespace TryForGraph
         {
             return new Coordinates(point.X, point.Y);
         }
+    }
+    public enum Mode
+    {
+        Move,
+        Del,
+        Merge,
+        AddVertex,
+    }
+    public enum Frame
+    {
+        Max,
+        Min,
     }
 }

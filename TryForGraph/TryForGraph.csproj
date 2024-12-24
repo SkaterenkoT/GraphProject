@@ -50,6 +50,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Converter.cs" />
+    <Compile Include="GraphSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GraphSettings.Designer.cs">
+      <DependentUpon>GraphSettings.cs</DependentUpon>
+    </Compile>
     <Compile Include="initGraph.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -72,6 +78,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="EdgeInfoForm.resx">
       <DependentUpon>EdgeInfoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GraphSettings.resx">
+      <DependentUpon>GraphSettings.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="initGraph.resx">
       <DependentUpon>initGraph.cs</DependentUpon>
