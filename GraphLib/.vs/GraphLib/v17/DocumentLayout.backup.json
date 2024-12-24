@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\GraphLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{891ED737-807C-44FB-92C2-2BD7E249AF98}|GraphLib\\GraphLib.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\graphlib\\graphlib\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891ED737-807C-44FB-92C2-2BD7E249AF98}|GraphLib\\GraphLib.csproj|solutionrelative:graphlib\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891ED737-807C-44FB-92C2-2BD7E249AF98}|GraphLib\\GraphLib.csproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\GraphLib\\graphlib\\vertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891ED737-807C-44FB-92C2-2BD7E249AF98}|GraphLib\\GraphLib.csproj|solutionrelative:graphlib\\vertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891ED737-807C-44FB-92C2-2BD7E249AF98}|GraphLib\\GraphLib.csproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\GraphLib\\graphlib\\unionfind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891ED737-807C-44FB-92C2-2BD7E249AF98}|GraphLib\\GraphLib.csproj|solutionrelative:graphlib\\unionfind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891ED737-807C-44FB-92C2-2BD7E249AF98}|GraphLib\\GraphLib.csproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\GraphLib\\graphlib\\coordinates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891ED737-807C-44FB-92C2-2BD7E249AF98}|GraphLib\\GraphLib.csproj|solutionrelative:graphlib\\coordinates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891ED737-807C-44FB-92C2-2BD7E249AF98}|GraphLib\\GraphLib.csproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\GraphLib\\graphlib\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891ED737-807C-44FB-92C2-2BD7E249AF98}|GraphLib\\GraphLib.csproj|solutionrelative:graphlib\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 244,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnionFind.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\GraphLib\\GraphLib\\UnionFind.cs",
+              "RelativeDocumentMoniker": "GraphLib\\UnionFind.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\GraphLib\\GraphLib\\UnionFind.cs",
+              "RelativeToolTip": "GraphLib\\UnionFind.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T22:29:37.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Coordinates.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\GraphLib\\GraphLib\\Coordinates.cs",
+              "RelativeDocumentMoniker": "GraphLib\\Coordinates.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\GraphLib\\GraphLib\\Coordinates.cs",
+              "RelativeToolTip": "GraphLib\\Coordinates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:43:23.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edge.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\GraphLib\\GraphLib\\Edge.cs",
+              "RelativeDocumentMoniker": "GraphLib\\Edge.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\GraphLib\\GraphLib\\Edge.cs",
+              "RelativeToolTip": "GraphLib\\Edge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:44:17.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vertex.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\GraphLib\\GraphLib\\Vertex.cs",
+              "RelativeDocumentMoniker": "GraphLib\\Vertex.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\GraphLib\\GraphLib\\Vertex.cs",
+              "RelativeToolTip": "GraphLib\\Vertex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:43:34.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\GraphLib\\GraphLib\\Graph.cs",
+              "RelativeDocumentMoniker": "GraphLib\\Graph.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\GraphLib\\GraphLib\\Graph.cs",
+              "RelativeToolTip": "GraphLib\\Graph.cs",
+              "ViewState": "AgIAAMEBAAAAAAAAAAAAAMoBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:19:46.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
